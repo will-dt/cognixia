@@ -1,0 +1,8 @@
+Git - used to create local repos
+Git add
+Git Commit
+Git checkout
+
+Github
+Git push
+git pull
